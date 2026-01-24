@@ -203,7 +203,8 @@ ollama serve
 **前端：**
 - React + TypeScript + Vite
 - Zustand (状态管理)
-- React Router
+- React Route
+
 
 ## 许可证
 
@@ -220,6 +221,7 @@ ollama serve
 
 作者: 孔涵羽
 
----
+可以加我的企业微信
+![mmexport1769263073303](https://github.com/user-attachments/assets/16c114e9-1923-4500-9150-6e44e1dfb58d)
 
 如果这个项目对你有帮助，请给一个星标
